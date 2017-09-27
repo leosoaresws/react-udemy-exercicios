@@ -1,0 +1,7 @@
+{
+    "eslint.enable": true,
+    "eslint.options": { "configFile": ".eslintrc.js" },
+
+    "editor.renderWhitespace": "none",
+    "editor.tabSize": 4
+}
